@@ -38,3 +38,7 @@ This Flutter application utilizes the power of OpenAI's ChatGPT model, implement
 ## Dependencies
 - **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **Riverpod Hooks**: A state management library for Flutter that helps manage the state of the application in a scalable and efficient manner.
+
+## Screenshots
+<img width="1719" alt="Screenshot 2024-03-12 at 8 07 35 PM" src="https://github.com/ALi4576/ChatGPT-APP/assets/33224960/9c18eb87-7273-45da-a32a-8f5c61585dc3">
+<img width="1717" alt="Screenshot 2024-03-12 at 8 07 56 PM" src="https://github.com/ALi4576/ChatGPT-APP/assets/33224960/b6069f81-e75a-4c52-87e3-3e1b1ffa0739">
