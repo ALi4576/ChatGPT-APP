@@ -1,0 +1,15 @@
+{
+  "welcome_to_GoAi": "Üdvözöllek a GoAi platformban",
+  "select_a_product": "Válassz terméket vagy tranzakciót a folytatáshoz...",
+  "product": "Termék",
+  "transaction": "Tranzakció",
+  "newChat": "ÚJ BESZÉLGETÉS",
+  "examples": "Példa párbeszédek",
+  "you": "Te",
+  "generating": "Válasz generálása neked...",
+  "goAi": "A GoAI hibázhat. Ellenőrizze le a fontos információk pontosságát.",
+  "send": "Üzenet írása...",
+  "unlock" :  "Oldd fel a Mesterséges Intelligencia erejét",
+  "coming":  "Hamarosan",
+  "error": "Hiba történt a kérés feldolgozása során. Kérjük, próbálja újra később."
+}

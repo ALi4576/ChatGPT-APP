@@ -1,0 +1,54 @@
+{
+  "welcome_to_GoAi": "Welcome to Go Ai",
+  "@welcome_to_GoAi": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "select_a_product": "Select a product or transaction to continue ...",
+  "@select_a_product": {
+    "description": "Select a product or transaction to continue ..."
+  },
+  "product": "Product",
+  "@product": {
+    "description": "Product"
+  },
+  "transaction": "Transaction",
+  "@transaction": {
+    "description": "Transaction"
+  },
+  "newChat": "New Chat",
+  "@newChat": {
+    "description": "New Chat"
+  },
+  "examples": "Examples",
+  "@examples": {
+    "description": "Examples"
+  },
+  "you": "You",
+  "@you": {
+    "description": "You"
+  },
+  "generating": "Generating answers for you…",
+  "@generating": {
+    "description": "Generating answers for you…"
+  },
+  "goAi": "GoAi can make mistakes. Consider checking important information.",
+  "@goAi": {
+    "description": "GoAi can make mistakes. Consider checking important information."
+  },
+  "send": "Send a message ...",
+  "@send": {
+    "description": "Send a message ..."
+  },
+  "unlock": "Unlock the power of ai",
+  "@unlock": {
+    "description": "unlock the power of ai"
+  },
+  "coming":  "coming",
+  "@coming": {
+    "description": "coming"
+  },
+  "error": "Failed to process your request. Please try again later.",
+  "@error": {
+    "description": "Error"
+  }
+}
